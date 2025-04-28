@@ -1,6 +1,6 @@
 ## Luke Eastwood - Computer Science Student at Teesside University
 
-🌱 Currently trying to enhance my skills is HTML, CSS, JavaScript and Java. 
+🌱 Currently trying to enhance my skills in HTML, CSS, JavaScript and Java. 
 
 ⚡ Interested in Full Stack Development and Web Dev.
 
