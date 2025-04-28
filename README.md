@@ -1,4 +1,8 @@
-## Hi there 👋
+## Luke Eastwood - Computer Science Student at Teesside University
+
+🌱 Currently trying to enhance my skills is HTML, CSS, JavaScript and Java. 
+
+⚡ Interested in Full Stack Development and Web Dev.
 
 <!--
 **LukeEastwood080506/LukeEastwood080506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
