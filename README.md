@@ -4,7 +4,7 @@
 
 ⚡ Interested in Full Stack Development and Web Dev.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,javascript)](https://skillicons.dev)
 
 <!--
 **LukeEastwood080506/LukeEastwood080506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
